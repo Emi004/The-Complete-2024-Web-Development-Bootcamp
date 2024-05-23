@@ -1,0 +1,28 @@
+body{
+   background-color: black ;
+}
+
+.hampter
+{  
+    width: 100%;
+    border: 5px solid yellow;
+    
+    
+}
+
+.txt{
+    color: white;
+    text-align: center;
+}
+
+h1
+{
+    font-family: "Libre Baskerville";
+}
+.meme
+{
+    margin-top: 30%;
+    width: 50%;
+    margin-left: 25% ;
+    height: 50%;
+}
